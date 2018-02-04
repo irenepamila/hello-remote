@@ -1,1 +1,2 @@
 Here is some text we are adding into demo.txt
+Wahlala! Try something new for change! :D
